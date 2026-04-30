@@ -24,6 +24,6 @@ To qualify for the flat $750/week rate, the client must meet these standards:
 ## The "Profit Multiplier" Add-Ons
 | Service | Description | Price |
 | :--- | :--- | :--- |
-| **Growth Engine** | CRM Setup & Marketing Automation (GoHighLevel). | +$1,500/Mo |
+| **Growth Engine** | CRM Setup & Marketing Automation (HubSpot / ActiveCampaign). | +$1,500/Mo |
 | **Web-Dev Care** | Hosting, Security, and Content Updates. | +$500/Mo |
 | **Social Media** | 3 posts/week + Reputation Management. | +$1,000/Mo |

@@ -23,4 +23,4 @@ Integrated directly into the Syncro agent.
 *   **Role:** The "Vault." Stores every password, serial number, and network map for the client.
 
 ## 5. The Add-On Delivery
-*   **Web/Marketing:** WordPress + GoHighLevel (for CRM/Sales automation).
+*   **Web/Marketing:** WordPress + HubSpot / ActiveCampaign (for CRM/Sales automation).
